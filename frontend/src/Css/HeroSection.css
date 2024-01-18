@@ -1,0 +1,33 @@
+/* heroSection One */
+.main-girls {
+    min-height: 80vh;
+    display: flex;
+    padding: 4%;
+    flex-direction: row;
+  }
+  
+  .image-one-girls {
+    width: 50%;
+  }
+  
+  .text-one-girls {
+    width: 40%;
+    height: 340px;
+    background-color: #fff;
+    color: black;
+    margin-top: 6%;
+    padding: 3%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    margin-left: 7%;
+  }
+  
+  #shop-btn {
+    font-size: 20px;
+  }
+  
+  #shop-btn:hover {
+    background-color: #252525;
+    color: #fff;
+  }

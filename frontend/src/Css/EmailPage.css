@@ -1,0 +1,55 @@
+
+/* Email Page */
+.email-page {
+    min-height: 60vh;
+    background: linear-gradient(30deg, rgba(213, 42, 65, 1) 34%, rgba(228, 87, 48, 1) 66%, rgba(235, 107, 40, 1) 75%);
+    /* transform: skewY(4deg); */
+    /* overflow-x: hidden; */
+    position: relative;
+    z-index: -1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    /* overflow-y: hidden; */
+  }
+  
+  .email-page:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-top: 80px solid white;
+    border-left: 1400px solid rgba(213, 47, 48, 1);
+    width: 0;
+  
+  }
+  
+  .form-change {
+    background: transparent;
+    border: none;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .form-change input {
+    background-color: transparent;
+  }
+  
+  #email-id {
+    height: 60%;
+    width: 40%;
+    padding: 3%;
+  
+  }
+  
+  #h-four {
+    font-size: 25px;
+    font-weight: 400;
+    padding: 2%;
+    text-align: center;
+  }
+    

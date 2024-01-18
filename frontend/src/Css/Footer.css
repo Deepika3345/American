@@ -1,0 +1,122 @@
+/* Footer*/
+.footer-part {
+    min-height: 100vh;
+    color: #fff;
+  
+  }
+  
+  .category-bags {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .bags-list {
+    display: flex;
+    flex-wrap: wrap;
+  
+  
+  }
+  
+  .category-bags a {
+  
+    margin: 0px 10px 0px 10px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .detailed-para {
+    height: 130px;
+    overflow: auto;
+    margin-top: 40px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+  }
+  
+  .footer-two {
+    padding: 3% 8% 3% 8%;
+  }
+  
+  .support-list {
+    display: flex;
+    flex-direction: row;
+    margin: 30px 0px 0px 30px;
+  }
+  
+  .list-one {
+    list-style: none;
+    line-height: 40px;
+    margin-right: 100px;
+    font-size: 14px;
+  }
+  
+  .icon-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 3%;
+    /* background-color: #272727; */
+  
+  }
+  
+  .footer-icons {
+    width: 12%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .footer-icons i {
+    color: gray;
+  }
+  
+  .footer-icons i:hover {
+    color: #fff;
+  }
+  
+  #footerLogo {
+    width: 6%;
+  
+  }
+  
+  .terms-and-condition {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    color: #746f6f;
+    padding: 2%;
+    font-size: 14px;
+  
+  }
+  
+  hr {
+    color: white;
+  }
+  
+  #copyright {
+    color: #746f6f;
+    font-size: 15px;
+    padding: 2%;
+  
+  }
+  
+  #privacy {
+    margin-right: 25px;
+  }
+  
+  .t_and_c {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    width: 40%;
+  
+  }
+  
+  .visa {
+    background-color: #272727;
+  }

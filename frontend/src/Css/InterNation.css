@@ -1,0 +1,49 @@
+/* InterNation */
+.globe img {
+    width: 23%;
+  }
+  
+  .globe {
+    width: 22%;
+    height: 270px;
+    transform: skewY(-4deg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+  
+  }
+  
+  #tilt-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: #fff;
+    padding: 2%;
+  }
+  
+  #interOne {
+    margin-top: 50px;
+  
+  }
+  
+  #interTwo {
+    margin-top: 60px;
+  
+  }
+  
+  #interThree {
+    margin-top: 80px;
+  
+  }
+  
+  #interFour {
+    margin-top: 110px;
+  
+  }
+  
+  #para {
+    font-size: 15px;
+  
+  }
